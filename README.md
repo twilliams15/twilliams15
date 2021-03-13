@@ -9,6 +9,7 @@
 - all things JS
 - Cypress
 - Jest & Testing Library
+
 plus React, mdx, RxJS, tailwind, next.js and anything else I can get my hands on
 
 ## 📫 How to reach me ...
