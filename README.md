@@ -1,16 +1,35 @@
-# 👋 Hi, I’m Todd Williams
+# Todd Williams
 
-## 👀 I’m interested in QA Engineering:
-- How can we make the most out of our tests?
-- How can we get developers to write more & better tests?
-- What are the best tools for testing?
+**Senior Software Engineer at GoFundMe**
 
-## 🌱 I’m currently learning ...
-- all things JS
-- Cypress
-- Jest & Testing Library
+---
 
-plus React, mdx, RxJS, tailwind, next.js and anything else I can get my hands on
+## About Me
 
-## 📫 How to reach me ...
-on LinkedIn, at /in/twilliams15
+I'm a self-taught programmer that began in QA and now work as a senior software engineer in frontend web development. I've also worked as a product and project manager. My goal is to write simple, clean, readable code.
+
+---
+
+## Key Skills
+
+- **Languages & Technologies:** TypeScript/JavaScript, React, Next.js, Apollo, GraphQL
+- **Background:** QA Testing, Frontend Development
+
+---
+
+## Highlighted Project
+
+- **[Smuggler's Cove Companion App](link-to-your-repo):** This is my latest project, a companion app to the popular Smuggler's Cove tiki bartending book. It allows users to add items from their bar to see what drinks they can make, and includes search, favorite, and insights features.
+
+---
+
+## Get in Touch
+
+- **LinkedIn:** [linkedin.com/in/twilliams15](https://www.linkedin.com/in/twilliams15)
+
+---
+
+## Personal Info
+
+Outside of work, I enjoy cooking, working out, and playing the piano.
+
