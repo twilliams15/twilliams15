@@ -19,7 +19,7 @@ I'm a self-taught programmer that began in QA and now work as a senior software 
 
 ## Highlighted Project
 
-- **[Smuggler's Cove Companion App](link-to-your-repo):** This is my latest project, a companion app to the popular Smuggler's Cove tiki bartending book. It allows users to add items from their bar to see what drinks they can make, and includes search, favorite, and insights features.
+- **[Smuggler's Cove Companion App](https://github.com/twilliams15/sc2):** This is my latest project, a companion app to the popular Smuggler's Cove tiki bartending book. It allows users to add items from their bar to see what drinks they can make, and includes search, favorite, and insights features.
 
 ---
 
